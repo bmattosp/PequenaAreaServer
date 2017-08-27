@@ -1,0 +1,2 @@
+# PequenaAreaServer
+Servidor do projeto
